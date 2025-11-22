@@ -1,6 +1,6 @@
 # 🚀 Terraform Hands-On: AWS VPC & EC2 Deployment
-### 📖 Overview
-This project demonstrates how to use Terraform to:
+###  📖 Overview
+This hands-on demonstrates how to use Terraform to:
 - Launch a custom VPC (10.0.0.0/16) in the us-west-2 region.
 - 	Deploy an Amazon Linux 2 EC2 instance in the default VPC of `us-west-2` .
 # The configuration is split into multiple files for clarity and best practices:
